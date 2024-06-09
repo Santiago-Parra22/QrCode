@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main className="flex items-center justify-center min-h-screen bg-blue-200 rounded-xl">
-      <div className="bg-white rounded-lg shadow-md p-3 flex flex-col items-center">
+    <main className="flex items-center justify-center min-h-screen bg-blue-200 ">
+      <div className="bg-white rounded-xl shadow-md p-3 flex flex-col items-center carta">
         <img 
           className="border rounded-lg m-2" 
           src="/image-qr-code.png" 
